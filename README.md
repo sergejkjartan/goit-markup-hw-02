@@ -1,1 +1,1 @@
-# goit-markup-hw-02
+https://sergejkjartan.github.io/goit-markup-hw-02/
